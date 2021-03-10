@@ -2,7 +2,7 @@ function searchGoogleBooks() {
     var txtSearch = document.querySelector("#txtSearch");
     if (txtSearch.value == "") {
         document.querySelector("#mainDiv").classList.add("hasError");
-        document.querySelector("#mainDiv").innerHTML = "No search keyworkd provided...";
+        document.querySelector("#mainDiv").innerHTML = "No search keyword provided...";
         return;
     }
 

@@ -1,5 +1,5 @@
 # webapp_spring2021_classwork
-## Javascript part 3
+## VUE.JS
 - Lora Kalthoff
 - WebAppDev CSCI 4800
 ---
